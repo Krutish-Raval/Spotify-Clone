@@ -1,0 +1,1 @@
+export const backendURL = "https://spotify-clone-1-izfw.onrender.com";
